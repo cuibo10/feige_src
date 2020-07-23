@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 22
+/svn/!svn/ver/19/trunk
+END
+Copying.txt
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/17/trunk/Copying.txt
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/17/trunk/ChangeLog
+END
+qipmsg.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/12/trunk/qipmsg.desktop
+END
+qipmsg.spec
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/19/trunk/qipmsg.spec
+END
+PROT-ENG.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/PROT-ENG.TXT
+END
+Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/2/trunk/Readme.txt
+END
+ReleaseProcess.txt
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/ReleaseProcess.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/2/trunk/Makefile
+END
+Install.txt
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/5/trunk/Install.txt
+END

@@ -1,0 +1,635 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/19/trunk/src
+END
+ipmsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/2/trunk/src/ipmsg.h
+END
+send_file_window.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/src/send_file_window.h
+END
+send_file_thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/src/send_file_thread.h
+END
+setup_window.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/8/trunk/src/setup_window.cpp
+END
+send_file_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/src/send_file_manager.h
+END
+owner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/src/owner.cpp
+END
+send_file.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/src/send_file.h
+END
+lockfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/src/lockfile.h
+END
+about_dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/src/about_dialog.h
+END
+recvfilesortfilterproxymodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/recvfilesortfilterproxymodel.cpp
+END
+global.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/src/global.cpp
+END
+preferences.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/16/trunk/src/preferences.cpp
+END
+window_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/src/window_manager.cpp
+END
+recv_file_transfer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/6/trunk/src/recv_file_transfer.cpp
+END
+recv_file.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/3/trunk/src/recv_file.h
+END
+send_msg.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/src/send_msg.h
+END
+send_file_handle.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/src/send_file_handle.h
+END
+file_server.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/src/file_server.h
+END
+user_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/src/user_manager.h
+END
+send_file_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/src/send_file_model.h
+END
+icons.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/src/icons.qrc
+END
+helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/src/helper.cpp
+END
+sound_thread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/src/sound_thread.cpp
+END
+send_file_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/src/send_file_manager.cpp
+END
+recv_file_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/src/recv_file_model.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/3/trunk/src/main.cpp
+END
+recv_file_thread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/src/recv_file_thread.cpp
+END
+recv_file_window.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/src/recv_file_window.cpp
+END
+transfer_codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/src/transfer_codec.h
+END
+lockfile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/src/lockfile.cpp
+END
+send_file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/src/send_file.cpp
+END
+msg.h
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/trunk/src/msg.h
+END
+setup_window.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/8/trunk/src/setup_window.h
+END
+recv_file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3/trunk/src/recv_file.cpp
+END
+qipmsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/src/qipmsg.h
+END
+recv_msg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/src/recv_msg.cpp
+END
+preferences.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/8/trunk/src/preferences.h
+END
+window_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/src/window_manager.h
+END
+send_file_model.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/src/send_file_model.cpp
+END
+user_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/src/user_manager.cpp
+END
+recv_file_handle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/src/recv_file_handle.cpp
+END
+GPLHEADER
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/src/GPLHEADER
+END
+recv_file_finish_dialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/src/recv_file_finish_dialog.cpp
+END
+msg_thread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/src/msg_thread.cpp
+END
+msg_window.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/src/msg_window.cpp
+END
+recv_file_model.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/src/recv_file_model.cpp
+END
+transfer_file_window.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/src/transfer_file_window.h
+END
+msg_readed_window.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/src/msg_readed_window.cpp
+END
+constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/src/constants.h
+END
+sizecolumndelegate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/src/sizecolumndelegate.cpp
+END
+sound_thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/src/sound_thread.h
+END
+helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/3/trunk/src/helper.h
+END
+msg_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/src/msg_base.h
+END
+send_file_map.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/src/send_file_map.cpp
+END
+msg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/2/trunk/src/msg.cpp
+END
+translator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/src/translator.cpp
+END
+recv_file_window.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/src/recv_file_window.h
+END
+recv_file_thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/src/recv_file_thread.h
+END
+recv_file_map.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/src/recv_file_map.cpp
+END
+dir_dialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/src/dir_dialog.cpp
+END
+sound.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/2/trunk/src/sound.h
+END
+qipmsg-xdg-open
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/src/qipmsg-xdg-open
+END
+qipmsg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/src/qipmsg.cpp
+END
+serve_socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/14/trunk/src/serve_socket.h
+END
+transfer_file_model.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/src/transfer_file_model.cpp
+END
+retry_recv_file_dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/src/retry_recv_file_dialog.h
+END
+recv_msg.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/src/recv_msg.h
+END
+transfer_file_window.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/src/transfer_file_window.cpp
+END
+main_window.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/8/trunk/src/main_window.cpp
+END
+qipmsg.pro
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/7/trunk/src/qipmsg.pro
+END
+recv_file_handle.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/src/recv_file_handle.h
+END
+send_file_window.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/src/send_file_window.cpp
+END
+send_file_thread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/src/send_file_thread.cpp
+END
+msg_base.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/src/msg_base.cpp
+END
+msg_server.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/3/trunk/src/msg_server.h
+END
+recv_file_finish_dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/src/recv_file_finish_dialog.h
+END
+msg_window.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/src/msg_window.h
+END
+msg_thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/3/trunk/src/msg_thread.h
+END
+systray.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/src/systray.h
+END
+LGPLHEADER
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/src/LGPLHEADER
+END
+msg_readed_window.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/src/msg_readed_window.h
+END
+search_user_dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/src/search_user_dialog.h
+END
+sound.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/src/sound.cpp
+END
+sizecolumndelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/src/sizecolumndelegate.h
+END
+about_dialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/18/trunk/src/about_dialog.cpp
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/19/trunk/src/version.h
+END
+send_file_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/src/send_file_map.h
+END
+serve_socket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/16/trunk/src/serve_socket.cpp
+END
+translator.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/src/translator.h
+END
+send_msg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/src/send_msg.cpp
+END
+owner.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/2/trunk/src/owner.h
+END
+recv_file_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/src/recv_file_map.h
+END
+dir_dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/src/dir_dialog.h
+END
+retry_recv_file_dialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/src/retry_recv_file_dialog.cpp
+END
+send_file_handle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/src/send_file_handle.cpp
+END
+global.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/src/global.h
+END
+file_server.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/src/file_server.cpp
+END
+recvfilesortfilterproxymodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/src/recvfilesortfilterproxymodel.h
+END
+recv_file_transfer.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/src/recv_file_transfer.h
+END
+transfer_file_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/src/transfer_file_model.h
+END
+msg_server.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/8/trunk/src/msg_server.cpp
+END
+systray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/src/systray.cpp
+END
+main_window.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/src/main_window.h
+END
+transfer_codec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/src/transfer_codec.cpp
+END
+search_user_dialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/src/search_user_dialog.cpp
+END
